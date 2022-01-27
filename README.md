@@ -8,12 +8,13 @@ La estructura de la página constará de 3 partes: header, contenido principal y
 
 ## Ejemplo de API
 
-En el taller usamos [esta API de The Office](https://www.officeapi.dev/)
+En el taller usamos [esta API de The Office](https://www.officeapi.dev/), ustedes pueden usar la que quieran
 
 ## Diseño
 
 No hace falta que sea 100% igual, pueden usarlo como guía
 
+![Un header con 4 elementos en el menú, el contenido principal que está debajo dice "El contenido cambia dependiendo de la URL" y debajo se encuentra el footer](https://github.com/daianaszwimer/reto-codigo-facilito/blob/main/Screen%20Shot%202022-01-26%20at%2021.50.58.png "Diseño")
 
 
 ## Página de ejemplo
