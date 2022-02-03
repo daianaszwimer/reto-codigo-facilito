@@ -20,3 +20,6 @@ No hace falta que sea 100% igual, pueden usarlo como guía
 ## Página de ejemplo
 
 https://daianaszwimer.github.io/codigo-facilito/
+
+
+https://docs.google.com/presentation/d/1qWg0N2WgnFJ-GtKom5oJ3Q7xtZAyBe0y_9Q_aQckxjY/edit?usp=sharing
